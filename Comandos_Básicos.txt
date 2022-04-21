@@ -1,1 +1,22 @@
-Comandos Básicos Git
+  Comandos Básicos Git
+  
+  git version // versão do git
+  git config --global user.name "seu nome" // define o nome de usuário
+  git config --global user.email "seu email" // define o email 
+  clear // limpa a tela
+  git config user.email // exibe o usuário cadastrado
+  git config core.editor // endereço do editor de código padrão
+  git config --global core.editor "caminho do editor" // define o editor padrão
+  code // abre o editor
+  pwd // exibe em qual diretório você está
+  cd /c // leva para a unidade c
+  ls // lista as pastas e arquivos
+  mkdir // cria um diretório
+  touch // cria um arquivo
+  git init // inicia o repositório
+  ls -a // exibe arquivos ocultos
+  git add // adiciona o arquivo no diretório
+  git status // mostra as condições do diretório
+  git commit // identifica e armazena no repositorio
+  
+ 
